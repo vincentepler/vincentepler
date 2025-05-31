@@ -6,8 +6,8 @@ I am a detail-oriented and analytical BS Mathematics graduate from Benguet State
 
 Here you'll find a selection of my work, including academic research and projects that highlight my analytical capabilities:
 
-* **Thesis: Mathematical Modeling of Rice Blast Disease:** Developed and simulated a compartmental ODE model (SLIP model) to study the effect of fungicide and roguing in reducing crop infection in CAR provinces using Python and MATLAB ([Link to project folder])
-* **Research Project: Shortest Path Analysis for Dialysis Center Placement in Natonin, Mountain Province:** Applied Dijkstra's algorithm in Microsoft Excel to determine the optimal location of dialysis centers for remote areas in Mountain Province ([Link to project folder])
+* **Thesis: Mathematical Modeling of Rice Blast Disease:** Developed and simulated a compartmental ODE model (SLIP model) to study the effect of fungicide and roguing in reducing crop infection in CAR provinces using Python and MATLAB
+* **Research Project: Shortest Path Analysis for Dialysis Center Placement in Natonin, Mountain Province:** Applied Dijkstra's algorithm in Microsoft Excel to determine the optimal location of dialysis centers for remote areas in Mountain Province 
 * **Spreadsheet Projects** Created dashboards and Analaysis on datasets from open repositories and projects, showcasing skill in data analysis and presentation 
 
 ## Contact
